@@ -19,11 +19,11 @@ export default function Home() {
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-6 leading-tight">
               Ganhe Dinheiro com a<br />
-              <span className="text-green-600">Promoção Oficial do app!</span>
+              <span className="text-green-600">Promoção Oficial do TikTok Lite!</span>
             </h1>
 
             <p className="text-lg md:text-xl text-gray-700 mb-10 max-w-3xl mx-auto leading-relaxed">
-              Participe da promoção exclusiva do app e receba bônus reais
+              Participe da promoção exclusiva do TikTok Lite e receba bônus reais
               diretamente no seu PayPal ou conta bancária. É fácil, rápido e oficial!
             </p>
 
@@ -103,7 +103,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Promoção Oficial</h3>
               <p className="text-gray-600">
-                Campanha oficial do app. Totalmente segura e confiável.
+                Campanha oficial do TikTok Lite. Totalmente segura e confiável.
               </p>
             </div>
           </div>
@@ -127,9 +127,9 @@ export default function Home() {
               <div className="flex justify-center mb-4">
                 <Download size={48} className="text-green-600" />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Baixe o app</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Baixe o TikTok Lite</h3>
               <p className="text-gray-600">
-                Instale o aplicativo app no seu celular através da loja oficial.
+                Instale o aplicativo TikTok Lite no seu celular através da loja oficial.
               </p>
             </div>
 
@@ -193,7 +193,7 @@ export default function Home() {
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Junte-se a milhares de pessoas que já descobriram como ganhar dinheiro
-              extra com o app de forma simples e rápida.
+              extra com o TikTok Lite de forma simples e rápida.
             </p>
           </div>
 
@@ -260,7 +260,7 @@ export default function Home() {
             </h2>
 
             <p className="text-lg text-gray-700 mb-8">
-              O app limita o número de participantes em cada região.
+              O TikTok Lite limita o número de participantes em cada região.
               Fale comigo no chat agora para garantir sua vaga e receber seu código
               exclusivo antes que as vagas acabem!
             </p>

@@ -29,7 +29,7 @@ export default function Privacidade() {
               Informações Gerais
             </h2>
             <p className="text-gray-700 leading-relaxed">
-              Este site tem como objetivo divulgar uma promoção oficial do app.
+              Este site tem como objetivo divulgar uma promoção oficial do TikTok Lite.
               Não coletamos dados pessoais dos visitantes além das informações necessárias
               para o funcionamento básico do site.
             </p>
@@ -40,7 +40,7 @@ export default function Privacidade() {
               Links Externos
             </h2>
             <p className="text-gray-700 leading-relaxed">
-              Este site contém links para plataformas externas (app e WhatsApp).
+              Este site contém links para plataformas externas (TikTok Lite e WhatsApp).
               Ao clicar nesses links, você será direcionado para serviços de terceiros que
               possuem suas próprias políticas de privacidade.
             </p>
@@ -62,7 +62,7 @@ export default function Privacidade() {
               Responsabilidade
             </h2>
             <p className="text-gray-700 leading-relaxed">
-              A promoção divulgada neste site é de responsabilidade do app.
+              A promoção divulgada neste site é de responsabilidade do TikTok Lite.
               Não nos responsabilizamos por problemas técnicos, alterações nos termos da
               promoção ou questões relacionadas ao pagamento dos bônus.
             </p>

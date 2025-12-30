@@ -8,8 +8,8 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'app Promoção - Ganhe Dinheiro Agora',
-  description: 'Participe da promoção oficial do app e receba bônus reais diretamente no seu PayPal ou conta bancária.',
+  title: 'TikTok Lite Promoção - Ganhe Dinheiro Agora',
+  description: 'Participe da promoção oficial do TikTok Lite e receba bônus reais diretamente no seu PayPal ou conta bancária.',
 };
 
 export default function RootLayout({
